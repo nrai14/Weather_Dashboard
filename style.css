@@ -1,0 +1,14 @@
+.banner {
+    background-image: linear-gradient(to right, lightblue, blue);
+    text-align: center;
+    color: white;
+    padding: 10px 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.cities {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 180px;
+    margin: 20px 0px;
+}
